@@ -13,7 +13,7 @@ author_profile: true
     Bachelor of Science, Sep 2021 – Dec 2023
     <br><br>
     <h3>Major and Concentration</h3>
-    <a style="color: black" href="https://cse.ucsd.edu/">Computer Science and Engineering</a>
+    Computer Science and Engineering
     <br><strong>Major GPA: 3.7</strong>
     <br><strong>Provost Honors</strong>
     <br><br>
@@ -33,9 +33,9 @@ author_profile: true
     Associate of Science, Aug 2018 – May 2021
     <br>
     <h3>Double Major</h3>
-    <a style="color: black" href="https://orangecoastcollege.edu/academics/business-computing/computer-science/index.html">Computer Science</a>
+    Computer Science
     <br><strong>GPA: 4.0</strong><br>
-    <a style="color: black" href="https://orangecoastcollege.edu/academics/math-sciences/mathematics/index.html">Mathematics</a>
+    Mathematics
     <br><strong>GPA: 4.0</strong>
     <br>
     <h3>Awards and Scholarships</h3>
