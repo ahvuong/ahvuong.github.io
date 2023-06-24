@@ -1,46 +1,41 @@
 ---
+layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
 ---
 <div>
-  <div style="flex: 1; ">
-    <img src="https://media.cbs8.com/assets/KFMB/images/d26a2465-4af1-42ca-8cdf-a038eaa28e9e/d26a2465-4af1-42ca-8cdf-a038eaa28e9e_750x422.jpg"
-        width="600" height="350" style="margin-top: 25px;">
-  </div>
-  <div style="flex: 1; margin-left: 30px; margin-top: 20px;">
-    <h1>University of California, San Diego</h1>
-    Bachelor of Science, Sep 2021 – Dec 2023
-    <br><br>
-    <h3>Major and Concentration</h3>
-    Computer Science and Engineering
-    <br><strong>Major GPA: 3.7</strong>
-    <br><strong>Provost Honors</strong>
-    <br><br>
-    <h3>Relevant Coursework</h3>
-    Database Systems Principles, Database System Application, <br>
-    Machine Learning, Data Science in Practice, Software Engineering, <br>
-    Computer Architecture, Advanced Data Structure and Algorithm.
-  </div>
+<p>
+<img src="https://media.cbs8.com/assets/KFMB/images/d26a2465-4af1-42ca-8cdf-a038eaa28e9e/d26a2465-4af1-42ca-8cdf-a038eaa28e9e_750x422.jpg" style="zoom:70%;  float:left; padding:0.7em" width="700" height="400"/>
+<b><font size="5">University of California, San Diego</font></b>  <br>
+  Bachelor of Science, Sep 2021 – Dec 2023
+  <br><br>
+  <b>Major and Concentration</b>  <br>
+  Computer Science and Engineering
+  <br>Major GPA: 3.7
+  <br>Provost Honors
+  <br><br>
+  <b>Relevant Coursework</b>  <br>
+  Database Systems Principles, Database System Application, <br>
+  Machine Learning, Data Science in Practice, Software Engineering, <br>
+  Computer Architecture, Advanced Data Structure and Algorithm.<br>
+</p>
 </div>
+<br>
 <div>
-  <div style="flex: 1; ">
-    <img src="https://www.cccd.edu/images/facilities/projects-studentunion.jpg"
-        width="600" height="350" style="margin-top: 30px;">
-  </div>
-  <div style="flex: 1; margin-left: 30px; margin-top: 35px;">
-    <h1>Orange Coast College</h1>
-    Associate of Science, Aug 2018 – May 2021
-    <br>
-    <h3>Double Major</h3>
-    Computer Science
-    <br><strong>GPA: 4.0</strong><br>
-    Mathematics
-    <br><strong>GPA: 4.0</strong>
-    <br>
-    <h3>Awards and Scholarships</h3>
-    <li><strong>Dean's List</strong><br></li>
-    <li>Osher Foundation Scholarship 2020</li>
-    <li>Sherry Griswold Memorial Scholarship 2021</li>
-  </div>
+<p>
+<img src="https://www.cccd.edu/images/facilities/projects-studentunion.jpg" style="zoom:70%;  float:left; padding:0.7em" width="700" height="400"/>
+<b><font size="5">Orange Coast College</font></b>  <br>
+  Associate of Science, Aug 2018 – May 2021
+  <br><br>
+  <b>Double Major</b>  <br>
+  Computer Science<br>
+  Mathematics                 
+  <br>GPA: 4.0
+  <br><br>
+  <b>Awards and Scholarships</b>  <br>
+  <li><strong>Dean's List</strong><br></li>
+  <li>Osher Foundation Scholarship 2020</li>
+  <li>Sherry Griswold Memorial Scholarship 2021</li>
+</p>
 </div>
