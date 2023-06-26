@@ -2,7 +2,7 @@
 title: "TritonLink - Database Web App"
 collection: projects
 permalink: /projects/2023-tritonlink
-excerpt: "<img src='/images/tritonlink_homepage.png' alt=''>"
+excerpt: "projects"
 date: 2023-06-12
 venue: 'TritonLink - Database Web App'
 link: 'https://youtu.be/WuNjX2rVSFg'
