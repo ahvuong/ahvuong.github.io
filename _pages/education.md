@@ -22,7 +22,7 @@ author_profile: true
   Computer Architecture, Advanced Data Structure and Algorithm.
 </p>
 </div>
-<br><br>
+<br><br><br>
 <div>
 <p>
   <img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  
