@@ -6,7 +6,7 @@ author_profile: true
 ---
 <div>
 <p>
-  <img src="https://media.cbs8.com/assets/KFMB/images/d26a2465-4af1-42ca-8cdf-a038eaa28e9e/d26a2465-4af1-42ca-8cdf-a038eaa28e9e_750x422.jpg" style="zoom:70%;  
+  <img src="https://i.ytimg.com/vi/II5bUKJE9oY/maxresdefault.jpg" style="zoom:70%;  
             float:left; padding:0.7em" width="750" height="450"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science, Sep 2021 – Dec 2023
