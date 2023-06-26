@@ -2,6 +2,7 @@
 title: "TritonLink - Database Web App"
 collection: projects
 permalink: /projects/2023-tritonlink
+excerpt: 'This paper is about the number 2'
 date: 2023-06-12
 venue: 'TritonLink - Database Web App'
 youtube: 'https://youtu.be/WuNjX2rVSFg'
