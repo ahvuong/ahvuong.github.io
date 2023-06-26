@@ -6,7 +6,7 @@ author_profile: true
 ---
 <div>
 <p>
-  <img src="https://i.ytimg.com/vi/II5bUKJE9oY/maxresdefault.jpg" style="zoom:70%;  
+  <img src="https://plandesignbuild.ucsd.edu/_images/projects/Triton-Center.jpg" style="zoom:70%;  
             float:left; padding:0.7em" width="750" height="450"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science, Sep 2021 – Dec 2023
@@ -35,7 +35,7 @@ author_profile: true
   Mathematics                 
   <br>GPA: 4.0
   <br><br>
-  <b>Awards and Scholarships</b>  <br>
+  <b>Awards and Scholarships</b>
   <li><strong>Dean's List</strong><br></li>
   <li>Osher Foundation Scholarship 2020</li>
   <li>Sherry Griswold Memorial Scholarship 2021</li>
