@@ -24,7 +24,7 @@ author_profile: true
 <br>
 <div>
 <p>
-<img src="https://www.cccd.edu/images/facilities/projects-studentunion.jpg" style="zoom:70%;  float:left; padding:0.7em" width="700" height="400"/>
+<img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  float:left; padding:0.7em" width="700" height="400"/>
 <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science, Aug 2018 – May 2021
   <br><br>
