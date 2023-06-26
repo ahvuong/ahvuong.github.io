@@ -6,7 +6,8 @@ author_profile: true
 ---
 <div>
 <p>
-<img src="https://media.cbs8.com/assets/KFMB/images/d26a2465-4af1-42ca-8cdf-a038eaa28e9e/d26a2465-4af1-42ca-8cdf-a038eaa28e9e_750x422.jpg" style="zoom:70%;  float:left; padding:0.7em" width="700" height="400"/>
+<img src="https://media.cbs8.com/assets/KFMB/images/d26a2465-4af1-42ca-8cdf-a038eaa28e9e/d26a2465-4af1-42ca-8cdf-a038eaa28e9e_750x422.jpg" style="zoom:70%;  
+          float:left; padding:0.7em" width="750" height="450"/>
 <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science, Sep 2021 – Dec 2023
   <br><br>
@@ -21,10 +22,11 @@ author_profile: true
   Computer Architecture, Advanced Data Structure and Algorithm.<br>
 </p>
 </div>
-<br>
+<br><br>
 <div>
 <p>
-<img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  float:left; padding:0.7em" width="700" height="400"/>
+<img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  
+          float:left; padding:0.7em" width="750" height="450"/>
 <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science, Aug 2018 – May 2021
   <br><br>
