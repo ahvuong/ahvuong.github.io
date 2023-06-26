@@ -7,7 +7,7 @@ author_profile: true
 <div>
 <p>
   <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
-            float:left; padding:0.7em" width="750" height="450"/>
+            float:left; padding:0.7em" width="750" height="500"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science, Sep 2021 – Dec 2023
   <br><br>
@@ -22,11 +22,11 @@ author_profile: true
   Computer Architecture, Advanced Data Structure and Algorithm.
 </p>
 </div>
-<br><br><br>
+<br><br>
 <div>
 <p>
   <img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  
-            float:left; padding:0.7em" width="750" height="450"/>
+            float:left; padding:0.7em" width="750" height="500"/>
   <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science, Aug 2018 – May 2021
   <br><br>
