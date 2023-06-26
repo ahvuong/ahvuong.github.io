@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anh Vuong"
   avatar           : "mypicture.jpg"
-  bio              : 
+  bio              : "CSE Student @ UCSD"
   location         : 
   employer         :
   pubmed           : 
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
