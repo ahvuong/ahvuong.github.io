@@ -6,7 +6,7 @@ author_profile: true
 ---
 <div>
 <p>
-  <img src="https://plandesignbuild.ucsd.edu/_images/projects/Triton-Center.jpg" style="zoom:70%;  
+  <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
             float:left; padding:0.7em" width="750" height="450"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science, Sep 2021 – Dec 2023
