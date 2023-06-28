@@ -12,3 +12,5 @@ A Python-based Switch Arcade Game was designed including six mini arcade games w
 <p> 
 <a href="https://youtu.be/SRjhR7N2S8I">Demo:  <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 </p>
+
+![switch](../images/switch.png) 

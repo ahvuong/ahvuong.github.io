@@ -13,3 +13,6 @@ A team of four members analyzed the housing price impact on the populations of C
 <a href="https://github.com/ahvuong/Data-Driven-Population-Analysis-in-California/blob/master/FinalProjectGroup_Sp23_AAA-H.ipynb">Demo:  <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>   
 <a href="https://github.com/ahvuong/Data-Driven-Population-Analysis-in-California">Github: <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 </p>
+
+![data1](../images/data_analysis_1.png)  
+![data2](../images/data_analysis_2.png)
