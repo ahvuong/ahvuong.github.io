@@ -40,6 +40,7 @@
       {% if post.collection == 'projects' %}
         <p style="display: flex; justify-content: space-between;"> 
           <em>{{ post.type }}</em>
+        <span>
         <!-- citation and icon code -->
         {% if post.citation %}
           {{ post.citation }}
@@ -56,22 +57,11 @@
         {% if post.github %}
           <a href="{{ post.github }}">Github: <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
         {% endif %}
+        </span>
         </p>
       {% elsif post.date %}
         <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
       {% endif %}
-    
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-          <strong>
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a>
-          </strong>
-        </p>
-      </p>
-    {% endif %}
     
   </article>
 </div>
