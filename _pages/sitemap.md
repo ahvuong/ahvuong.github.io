@@ -14,8 +14,8 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
+<h2>Projects</h2>
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
 
