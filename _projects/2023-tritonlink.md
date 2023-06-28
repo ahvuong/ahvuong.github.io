@@ -8,3 +8,5 @@ link: 'https://youtu.be/WuNjX2rVSFg'
 github: 'https://github.com/ahvuong/TritonLink-Database-Web-App'
 ---
 A robust web application is being developed to address extensive data maintenance and querying requirements. 
+
+![homepage](../images/tritonlink_homepage.png)
