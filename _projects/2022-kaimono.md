@@ -17,5 +17,7 @@ A smart shopping web application is created to enhance inventory and shopping li
 </p>
 
 ![kaimono1](../images/kaimono_1.png)  
+
 ![kaimono2](../images/kaimono_2.png)  
+
 ![kaimono3](../images/kaimono_3.png)

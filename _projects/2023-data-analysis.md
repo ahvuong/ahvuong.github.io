@@ -15,4 +15,5 @@ A team of four members analyzed the housing price impact on the populations of C
 </p>
 
 ![data1](../images/data_analysis_1.png)  
+
 ![data2](../images/data_analysis_2.png)

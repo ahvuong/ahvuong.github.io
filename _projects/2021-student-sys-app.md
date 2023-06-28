@@ -17,7 +17,11 @@ A small-scale database app for efficient access and management of student record
 </p>
 
 ![student0](../images/student0.png)  
+
 ![student1](../images/student1.png)  
+
 ![student2](../images/student2.png)  
+
 ![student3](../images/student3.png)  
+
 ![student4](../images/student4.png)  
