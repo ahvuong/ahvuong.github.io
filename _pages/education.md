@@ -13,8 +13,8 @@ author_profile: true
   <br><br>
   <b>Major and Concentration</b>  <br>
   Computer Science and Engineering
-  <br>Major GPA: 3.7
-  <br>Provost Honors
+  <br>Major GPA: 3.7, UC GPA: 3.64
+  <br><b>Provost Honors</b>
   <br><br>
   <b>Relevant Coursework</b>  <br>
   Database Systems Principles, Database System Application,
