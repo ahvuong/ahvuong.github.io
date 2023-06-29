@@ -11,7 +11,7 @@ A robust web application is being developed to address extensive data maintenanc
 
 <!-- citation and icon code -->
 <p> 
-<a href="https://youtu.be/WuNjX2rVSFg">Demo:  <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>   
+<a href="https://youtu.be/WuNjX2rVSFg">Demo:  <i class="fab fa-fw fa-youtube-square zoom" aria-hidden="true"></i></a>   
 <a href="https://github.com/ahvuong/TritonLink-Database-Web-App">Github: <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 </p>
 
