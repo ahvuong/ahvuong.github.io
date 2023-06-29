@@ -8,3 +8,6 @@ main:
     
   - title: "Resume"
     url: /resume/
+
+  - title: "Skills"
+    url: /skills/
