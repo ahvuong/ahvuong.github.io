@@ -12,7 +12,7 @@ A small-scale database app for efficient access and management of student record
 
 <!-- citation and icon code -->
 <p> 
-<a href="https://youtu.be/yiijX7eUbU4">Demo:  <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>   
+<a href="https://youtu.be/yiijX7eUbU4">Demo:  <i class="fab fa-fw fa-youtube-square zoom" aria-hidden="true"></i></a>   
 <a href="https://github.com/ahvuong/Student_Record_Management_System_App">Github: <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>   
 </p>
 
