@@ -3,7 +3,7 @@
 
 // makes the font 33% larger relative to the icon container
 .#{$fa-css-prefix}-lg {
-  font-size: (4em / 3);
+  font-size: 4em;
   line-height: (3em / 4);
   vertical-align: -.0667em;
 }
@@ -16,7 +16,7 @@
   font-size: .875em;
 }
 
-@for $i from 1 through 30 {
+@for $i from 1 through 10 {
   .#{$fa-css-prefix}-#{$i}x {
     font-size: $i * 1em;
   }
