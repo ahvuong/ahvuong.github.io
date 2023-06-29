@@ -19,7 +19,7 @@ author_profile: true
   <b>Relevant Coursework</b>  <br>
   Database Systems Principles, Database System Application,
   Machine Learning, Data Science in Practice, Software Engineering,
-  Computer Architecture, Advanced Data Structure and Algorithm.
+  Computer Architecture, Advanced Data Structure and Algorithm
 </p>
 </div>
 <br>
