@@ -37,7 +37,7 @@ author_profile: true
   <br><br>
   <b>Awards and Scholarships</b>
   <li><strong>Dean's List</strong><br></li>
-  <li>Osher Foundation Scholarship 2020</li>
-  <li>Sherry Griswold Memorial Scholarship 2021</li>
+  <li>2020 Osher Foundation Scholarship</li>
+  <li>2021 Sherry Griswold Memorial Scholarship</li>
 </p>
 </div>
