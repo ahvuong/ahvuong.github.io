@@ -6,7 +6,7 @@ type: "Java, BlueJ"
 permalink: /projects/2021-student-sys-app
 date: 2021-05-20
 ---
-A small-scale database app for efficient access and management of student records.
+In a collaborative effort with a four-person team, fundamental Agile methodologies guided the development of a streamlined student records database application aimed at intuitive data access and management. Leveraging Java and the BlueJ interface, a Java GUI was constructed to serve as the front-end, complementing a meticulously developed back-end complete with unit tests. This approach ensured optimized database interactions, resulting in an efficient and user-friendly student records management system tailored for educators and administrators.
 
 
 

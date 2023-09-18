@@ -6,7 +6,7 @@ type: "Python, Jupyter Notebooks, Sklearn, Seaborn, Panda"
 permalink: /projects/2023-data-analysis
 date: 2023-06-12
 ---
-A team of four members analyzed the housing price impact on the populations of California and Texas in a comparative study.
+Within a team consisting of four members, an Exploratory Data Analysis (EDA) study was carried out to investigate the correlation between housing prices and population shifts in California and Texas. This involved cleaning the data, discovering patterns, and hypothesizing formulas using Python, Jupyter Notebook, Sklearn, Seaborn, Pandas, and NumPy. Additionally, the study encompassed a correlation analysis to assess the influence of housing costs on interstate migration flows in these two states.
 
 <!-- citation and icon code -->
 <p> 

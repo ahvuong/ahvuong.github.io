@@ -7,7 +7,7 @@ permalink: /projects/2022-kaimono
 date: 2022-12-12
 ---
 
-A smart shopping web application is created to enhance inventory and shopping list management.
+In collaboration with a 10-member Agile team, daily stand-ups, Github, and Trello boards were coordinated to oversee the development of a smart inventory management web application. Responsive user interfaces for inventory and shopping list features were crafted using HTML, CSS, and JavaScript, ensuring compatibility across desktop and mobile browsers. The implementation of CI/CD practices, along with automated front-end and back-end testing, facilitated seamless Node.js and database integration, resulting in a smart shopping web application that optimizes inventory and shopping list management.
 
 
 <!-- citation and icon code -->
