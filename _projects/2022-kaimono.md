@@ -2,7 +2,7 @@
 layout: archive
 title: "Kaimono – Smart Shopping Web App"
 collection: projects
-type: "JavaScript, HTML, CSS, NodeJs"
+type: "JavaScript, HTML, CSS, NodeJs, Agile"
 permalink: /projects/2022-kaimono
 date: 2022-12-12
 ---

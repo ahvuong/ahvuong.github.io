@@ -2,7 +2,7 @@
 layout: archive
 title: "Student Record Management System App"
 collection: projects
-type: "Java, BlueJ"
+type: "Java, BlueJ, Agile"
 permalink: /projects/2021-student-sys-app
 date: 2021-05-20
 ---
