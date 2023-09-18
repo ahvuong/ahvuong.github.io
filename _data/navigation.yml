@@ -1,5 +1,8 @@
-# main links links
+# main links
 main:
+  - title: "Employment"
+    url: /employment/
+
   - title: "Projects"
     url: /projects/
 
