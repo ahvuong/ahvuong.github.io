@@ -2,7 +2,7 @@
 layout: archive
 title: "Data-Driven Population Analysis in California"
 collection: projects
-type: "Python, Jupyter Notebooks, Sklearn, Seaborn, Panda"
+type: "Python, Jupyter Notebooks, Scikit-learn, Seaborn, Panda"
 permalink: /projects/2023-data-analysis
 date: 2023-06-12
 ---
