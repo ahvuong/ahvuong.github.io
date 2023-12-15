@@ -16,4 +16,3 @@ This collaborative predictive analysis project involves the combined efforts of 
 </p>
 
 ![homepage](../images/predictive_analysis_contents.png)
-![homepage](../images/predictive_analysis.png)
