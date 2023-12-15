@@ -11,7 +11,7 @@ Heading a collaborative development project.
 
 <!-- citation and icon code -->
 <p> 
-<a href="https://github.com/ahvuong/Predictive_Analysis_of_User_Ratings/blob/main/CSE158RFA23_Assignment2_Report.pdf">Report:  <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   
+<a href="https://github.com/ahvuong/Predictive_Analysis_of_User_Ratings/blob/main/CSE158RFA23_Assignment2_Report.pdf">Report:  <i class="fas fa-file-pdf" aria-hidden="true"></i></a>   
 <a href="https://github.com/ahvuong/Predictive_Analysis_of_User_Ratings">Github: <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 </p>
 
