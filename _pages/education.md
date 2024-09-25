@@ -42,7 +42,7 @@ author_profile: true
 <div>
 <p>
   <img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  
-            float:left; padding:0.7em" width="650" height="650"/>
+            float:left; padding:0.7em" width="650" height="600"/>
   <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science<br> Aug 2018 – May 2021
   <br><br>
@@ -50,7 +50,7 @@ author_profile: true
   Computer Science<br>
   Mathematics                 
   <br>GPA: 4.0
-  <br><br>
+  <br><br><br><br>
   <b>Awards and Scholarships</b>
   <li><strong>Dean's List</strong><br></li>
   <li>2020 Osher Foundation Scholarship</li>
