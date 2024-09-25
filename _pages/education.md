@@ -45,7 +45,7 @@ author_profile: true
             float:left; padding:0.7em" width="650" height="450"/>
   <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science<br> Aug 2018 – May 2021
-  <br><br>
+  <br><br><br>
   <b>Double Major</b>  <br>
   Computer Science<br>
   Mathematics                 
