@@ -42,7 +42,7 @@ author_profile: true
 <div>
 <p>
   <img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  
-            float:left; padding:0.7em" width="650" height="550"/>
+            float:left; padding:0.7em" width="650" height="500"/>
   <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science<br> Aug 2018 – May 2021
   <br><br>
