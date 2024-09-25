@@ -7,7 +7,7 @@ author_profile: true
 <div>
 <p>
   <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
-            float:left; padding:0.7em" width="750" height="500"/>
+            float:left; padding:0.7em" width="650" height="600"/>
   <b><font size="5">Georgia Institute of Technology</font></b>  <br>
   Master of Science,<br> Jan 2025 – Expected Dec 2026
   <br><br>
@@ -20,7 +20,7 @@ author_profile: true
 <div>
 <p>
   <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
-            float:left; padding:0.7em" width="750" height="500"/>
+            float:left; padding:0.7em" width="650" height="600"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science, Sep 2021 – Dec 2023
   <br><br>
@@ -40,7 +40,7 @@ author_profile: true
 <div>
 <p>
   <img src="https://images.shiksha.com/mediadata/images/1547122116phps8rUv2.jpeg" style="zoom:70%;  
-            float:left; padding:0.7em" width="750" height="500"/>
+            float:left; padding:0.7em" width="650" height="600"/>
   <b><font size="5">Orange Coast College</font></b>  <br>
   Associate of Science, Aug 2018 – May 2021
   <br><br>
