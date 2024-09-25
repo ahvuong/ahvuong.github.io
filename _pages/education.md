@@ -50,7 +50,7 @@ author_profile: true
   Computer Science<br>
   Mathematics                 
   <br>GPA: 4.0
-  <br><br><br><br>
+  <br><br><br><br><br>
   <b>Awards and Scholarships</b>
   <li><strong>Dean's List</strong><br></li>
   <li>2020 Osher Foundation Scholarship</li>
