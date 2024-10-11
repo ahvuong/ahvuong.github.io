@@ -27,12 +27,12 @@ author_profile: true
             float:left; padding:0.7em" width="650" height="350"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
   Bachelor of Science<br> Sep 2021 – Dec 2023
-  <br><br>
+  <br><br><br>
   <b>Major and Concentration</b>  <br>
   Computer Science and Engineering
   <br>Major GPA: 3.74, UC GPA: 3.69
   <br><b>Provost Honors</b>
-  <br><br><br><br>
+  <br><br><br>
   <b>Relevant Coursework</b>  <br>
   Database Systems Principles, Database System Application,
   Machine Learning, Data Science in Practice, Software Engineering,
