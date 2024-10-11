@@ -9,7 +9,7 @@ author_profile: true
 <p>
   <img src="https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/images/article/tech_square_sign-dr.jpg?h=65f58872&itok=98K7NcNJ" 
   style="zoom:70%;  
-            float:left; padding:0.7em" width="650" height="550"/>
+            float:left; padding:0.7em" width="650" height="450"/>
   <b><font size="5">Georgia Institute of Technology</font></b>  <br>
   Master of Science<br> Jan 2025 – Expected Dec 2026
   <br><br>
