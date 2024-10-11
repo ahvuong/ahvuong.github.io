@@ -32,7 +32,7 @@ author_profile: true
   Computer Science and Engineering
   <br>Major GPA: 3.74, UC GPA: 3.69
   <br><b>Provost Honors</b>
-  <br><br><br>
+  <br><br><br><br>
   <b>Relevant Coursework</b>  <br>
   Database Systems Principles, Database System Application,
   Machine Learning, Data Science in Practice, Software Engineering,
