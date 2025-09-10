@@ -24,9 +24,9 @@ author_profile: true
 <div>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJBO7IewdP8kFXVcj6zanUw5cTeFXKoVkzQ&s" style="zoom:70%;  
-            float:left; padding:0.7em" width="200" height="200"/>
+            float:left; padding:0.7em" width="180" height="180"/>
   <b><font size="5">Engineer-in-Training (EIT)</font></b>  <br>
-  California Board for Professional Engineers, Land Surveyors, and Geologistse<br> Sep 2025
+  California Board for Professional Engineers, Land Surveyors, and Geologists<br> Sep 2025
 
 </p>
 </div>
