@@ -21,13 +21,14 @@ author_profile: true
 </div>
 <br>
 -->
+<br>
 <div>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJBO7IewdP8kFXVcj6zanUw5cTeFXKoVkzQ&s" style="zoom:70%;  
             float:left; padding:0.7em" width="250" height="250"/>
   <b><font size="5">Engineer-in-Training (EIT)</font></b>  <br>
   California Board for Professional Engineers, Land Surveyors, and Geologists<br> Sep 2025
-<br><br>
+<br><br><br><br>
 </p>
 </div>
 <br>
