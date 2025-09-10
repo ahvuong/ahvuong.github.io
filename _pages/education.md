@@ -24,11 +24,13 @@ author_profile: true
 <div>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJBO7IewdP8kFXVcj6zanUw5cTeFXKoVkzQ&s" style="zoom:70%;  
-            float:left; padding:0.7em" width="250" height="250"/>
+            float:left; padding:0.7em" width="200" height="200"/>
   <b><font size="5">Engineer-in-Training (EIT)</font></b>  <br>
   California Board for Professional Engineers, Land Surveyors, and Geologistse<br> Sep 2025
+
 </p>
 </div>
+<br>
 <div>
 <p>
   <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
