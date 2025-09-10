@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anh Vuong"
+title                    : "Anh Vuong, EIT"
 title_separator          : "-"
-name                     : &name "Anh Vuong"
+name                     : &name "Anh Vuong, EIT"
 description              : &description "personal description"
 url                      : https://ahvuong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anh Vuong"
+  name             : "Anh Vuong, EIT"
   avatar           : "AV.jpg"
   bio              : "CSE Student @ UCSD"
   location         : "Anaheim, CA"

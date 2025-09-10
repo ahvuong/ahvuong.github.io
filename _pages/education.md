@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Education & Certifications"
 permalink: /education/
 author_profile: true
 ---
@@ -23,6 +23,14 @@ author_profile: true
 -->
 <div>
 <p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJBO7IewdP8kFXVcj6zanUw5cTeFXKoVkzQ&s" style="zoom:70%;  
+            float:left; padding:0.7em" width="650" height="350"/>
+  <b><font size="5">Engineer-in-Training (EIT)</font></b>  <br>
+  California Board for Professional Engineers, Land Surveyors, and Geologistse<br> Sep 2025
+</p>
+</div>
+<div>
+<p>
   <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
             float:left; padding:0.7em" width="650" height="350"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
@@ -34,8 +42,8 @@ author_profile: true
   <br><b>Provost Honors</b>
   <br><br><br><br>
   <b>Relevant Coursework</b>  <br>
-  Database Systems Principles, Database System Application,
-  Machine Learning, Data Science in Practice, Software Engineering,
+  Database Systems Principles & Application,
+  Machine Learning, Data Science in Practice, Software Engineering, Digital Systems, 
   Computer Architecture, Advanced Data Structure and Algorithm,
   Matlab Programming
 </p>
