@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Traffic Signal Controller – Verilog FSM Project"
+title: "Digital System Design – Traffic Signal Controller (Verilog FSM)"
 collection: projects
-type: "Verilog FSM"
+type: "Verilog FSM, Digital System"
 permalink: /projects/2022-traffic-signal
 date: 2022-02-01
 ---
