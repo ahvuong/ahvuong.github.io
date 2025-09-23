@@ -11,7 +11,7 @@ Built a responsive personal portfolio website using Jekyll, HTML, and CSS to sho
 
 <!-- citation and icon code -->
 <p> 
-<a href="https://ahvuong.github.io/">Demo:  <i class="fa fa-external-link" style="font-size:36px" aria-hidden="true"></i></a>   
+<a href="https://ahvuong.github.io/">Demo:  <i class="fas fa-fw fa-link zoom" style="font-size:36px" aria-hidden="true"></i></a>   
 </p>
 
 <!--
