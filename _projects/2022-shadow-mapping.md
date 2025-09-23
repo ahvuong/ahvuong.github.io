@@ -16,6 +16,6 @@ Shadow mapping is a technique used to enhance the realism and depth perception i
 <a href="https://github.com/ahvuong/Student_Record_Management_System_App">Github: <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 </p>
 
-![kaimono1](../images/shadow_1.png)  
+![shadow1](../images/shadow_1.png)  
 
-![kaimono2](../images/shadow_2.png)
+![shadow2](../images/shadow_2.png)
