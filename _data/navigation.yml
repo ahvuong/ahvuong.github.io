@@ -12,5 +12,8 @@ main:
   - title: "Resume"
     url: /resume/
 
+  - title: "Civil Project"
+    url: /civil/
+
   - title: "Skills"
     url: /skills/
