@@ -6,14 +6,14 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Civil Project"
+    url: /civil/
+
   - title: "Education"
     url: /education/      
     
   - title: "Resume"
     url: /resume/
-
-  - title: "Civil Project"
-    url: /civil/
 
   - title: "Skills"
     url: /skills/
