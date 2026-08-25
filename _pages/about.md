@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science professional with a strong foundation in engineering, software development, and data analysis, recently earning my Engineer-in-Training (EIT) certification. I hold a B.S. in Computer Science from UC San Diego and currently serve as a Patent Examiner in Computer Science at the U.S. Patent and Trademark Office. My experience spans data analytics, IT support, and engineering design, where I have applied skills in Python, C++, Java, SQL, JavaScript, and frameworks such as NumPy, Sklearn, and Node.js. Proactive and detail-oriented, I thrive on solving complex problems and leveraging technology to drive innovation and efficiency.
+Motivated engineering professional with a solid background in computer science and technical analysis. Having worked in positions ranging from engineering support to intellectual property analysis at the U.S. Patent Office to data analysis, I have developed a multi-faceted approach towards problem-solving in the technical realm. I hold the designation of Engineer-in-Training (EIT) and am enthusiastic about designing efficient systems and applying engineering principles.
 
 
 
