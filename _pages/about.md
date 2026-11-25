@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Motivated engineering professional with a solid background in computer science and technical analysis. Having worked in positions ranging from engineering support to intellectual property analysis at the U.S. Patent Office to data analysis, I have developed a multi-faceted approach towards problem-solving in the technical realm. I hold the designation of Engineer-in-Training (EIT) and am enthusiastic about designing efficient systems and applying engineering principles.
+I am an engineering professional with experience in civil and building design, technical documentation, project coordination, and analytical problem-solving. Proficient in AutoCAD, Bluebeam, Civil 3D, Microsoft Office, and data management tools, I bring strong attention to detail, initiative, and a commitment to delivering accurate, high-quality work. My experience in engineering, government, and team leadership has strengthened my ability to collaborate effectively, manage priorities, and develop practical solutions. I am passionate about applying my technical skills to support safe, efficient, and sustainable transportation projects.
 
 
 
