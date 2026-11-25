@@ -34,7 +34,7 @@ author_profile: true
 <br>
 <div>
 <p>
-  <img src="https://purduealumnus.org/wp-content/uploads/Found_Fountain.jpg" style="zoom:70%;  
+  <img src="../images/Purdue_Found_Fountain.jpg" style="zoom:70%;  
             float:left; padding:0.7em" width="650" height="350"/>
   <b><font size="5">Purdue University | West Lafayette</font></b>  <br>
   Master of Science<br> Jan 2026 – May 2027
