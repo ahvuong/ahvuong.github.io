@@ -42,6 +42,7 @@ author_profile: true
   <b>Major and Concentration</b>  <br>
   Civil Engineering (Transportation - Smart Mobility)
   <br>Major GPA: 3.95
+  <br><b>Provost Honors</b>
   <br><br><br><br>
   <b>Relevant Coursework</b>  <br>
   Intelligent Transportation Systems, Geographic Information Systems, 
