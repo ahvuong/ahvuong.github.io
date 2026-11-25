@@ -34,6 +34,25 @@ author_profile: true
 <br>
 <div>
 <p>
+  <img src="https://purduealumnus.org/wp-content/uploads/Found_Fountain.jpg" style="zoom:70%;  
+            float:left; padding:0.7em" width="650" height="350"/>
+  <b><font size="5">Purdue University | West Lafayette</font></b>  <br>
+  Master of Science<br> Jan 2026 – May 2027
+  <br><br><br>
+  <b>Major and Concentration</b>  <br>
+  Civil Engineering (Transportation - Smart Mobility)
+  <br>Major GPA: 3.95
+  <br><br><br><br>
+  <b>Relevant Coursework</b>  <br>
+  Intelligent Transportation Systems, Geographic Information Systems, 
+  Vehicular Cyber-Physical Systems, Smart Logistics, 
+  UAS Photogrammetric Mapping, UAS LiDAR Mapping,
+  Optimization Methods for Systems and Control
+</p>
+</div>
+<br>
+<div>
+<p>
   <img src="https://today.ucsd.edu/news_uploads/big_29751174808_84979e38b9_z.jpg" style="zoom:70%;  
             float:left; padding:0.7em" width="650" height="350"/>
   <b><font size="5">University of California, San Diego</font></b>  <br>
